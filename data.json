@@ -1,0 +1,27 @@
+[
+    {
+        "LABEL_NUMBER_OF_SECURITIES_PER_LOT": "Number of securities per lot",
+        "LABEL_ETFS_CATEGORIES": "Etfs categories",
+        "LABEL_ETFS_SUBPRODUCT_CATEGORIES": "Etfs subproduct categories",
+        "LABEL_ETF_CAN_HAVE_INVESTMENT_FUNDS_TREATMENT_INDICATOR": "Etf can have investment funds treatment indicator",
+        "LABEL_ETF_HAS_AN_INVESTMENT_FUNDOR_SICAV_BEHAVIOUR_INDICATOR": "Etf has an investment fundor sicav behaviour indicator",
+        "LABEL_THRESHOLD_AMOUNT_FOR_SENDING_ORDERS_TO_MARKET_MARKER": "Threshold amount for sending orders to market marker",
+        "LABEL_APPLICATION_INDICATOR_AND_ITF": "Application indicator and ITF",
+        "LABEL_ITF_EXCEPTION_REASON_CODE": "ITF exception reason code",
+        "LABEL_ASSET_MANAGEMENT_FIRM": "Asset management firm",
+        "LABEL_ETFS_UNDER_LYINGS": "Etfs under lyings",
+        "LABEL_REBALANCEABLE_INDICATOR": "Rebalanceable Indicator",
+        "PLACEHOLDER_CNMV_HEADINGS_CODE": "Cnmv headings code",
+        "PLACEHOLDER_NUMBER_OF_SECURITIES_PER_LOT": "Number of securities per lot",
+        "PLACEHOLDER_ETFS_CATEGORIES": "Etfs categories",
+        "PLACEHOLDER_ETFS_SUBPRODUCT_CATEGORIES": "Etfs subproduct categories",
+        "PLACEHOLDER_ETF_CAN_HAVE_INVESTMENT_FUNDS_TREATMENT_INDICATOR": "Etf can have investment funds treatment indicator",
+        "PLACEHOLDER_ETF_HAS_AN_INVESTMENT_FUNDOR_SICAV_BEHAVIOUR_INDICATOR": "Etf has an investment fundor sicav behaviour indicator",
+        "PLACEHOLDER_THRESHOLD_AMOUNT_FOR_SENDING_ORDERS_TO_MARKET_MARKER": "Threshold amount for sending orders to market marker",
+        "PLACEHOLDER_APPLICATION_INDICATOR_AND_ITF": "Application indicator and ITF",
+        "PLACEHOLDER_ITF_EXCEPTION_REASON_CODE": "ITF exception reason code",
+        "PLACEHOLDER_ASSET_MANAGEMENT_FIRM": "Asset management firm",
+        "PLACEHOLDER_ETFS_UNDER_LYINGS": "Etfs under lyings",
+        "PLACEHOLDER_REBALANCEABLE_INDICATOR": "Rebalanceable Indicator"
+    }
+]
